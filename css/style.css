@@ -1,0 +1,81 @@
+@charset "UTF-8";
+.header_espn {
+    width: 100%;
+    height: 150px;
+
+}
+
+.nav_bar {
+    background-color: #2b2c2d;
+
+}
+
+.png_disney {
+    width: 90px;
+    height: 50px;
+    padding-top: 2px;
+}
+
+.drop_nav {
+    text-align: center;
+    align-items: center;
+
+}
+
+.banner_disney_superior {
+
+    width: 80%;
+    height: 90%;
+    padding-top: 20px;
+    padding-left: 100px;
+
+}
+
+.carrossel {
+    padding-top: 10px;
+    padding-bottom: 20px;
+
+}
+
+.ultimas_style {
+    padding-top: 10px;
+    padding-bottom: 20px;
+
+}
+
+.tamanho_icon {
+    width: 70px;
+    height: 50px;
+
+}
+
+.card_style {
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+
+.banner_lateral {
+    padding-top: 30px;
+    padding-left: 15px;
+
+}
+
+.tamanho_img_grande {
+
+
+}
+
+.banner_disney_inferior {
+
+    width: 80%;
+    height: 90%;
+    padding-bottom: 20px;
+    padding-left: 100px;
+
+}
+
+.redes_sociais {
+    background-color: #2b2c2d;
+
+}
